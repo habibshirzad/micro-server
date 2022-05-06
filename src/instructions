@@ -1,0 +1,4 @@
+create an app
+inside the app install the npm install @nestjs/microservice
+ake the followng changes in the main.ts
+
